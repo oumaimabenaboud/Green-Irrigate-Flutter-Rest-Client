@@ -1,0 +1,3 @@
+632fef96a6e94fc62dfc70b3d31bdac8f492dc5e5a71df78
+245b514ca34836323756f1ed7c401263a7dbd93ae199f46d
+https://api.fieldclimate.com/v2
